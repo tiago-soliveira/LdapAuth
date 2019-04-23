@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LdapAuth" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Port" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">389</Value>
+    </Setting>
+    <Setting Name="Login" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cn=manager,dc=inmetrics,dc=com,dc=br</Value>
+    </Setting>
+    <Setting Name="BaseDn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ou=Users,dc=inmetrics,dc=com,dc=br</Value>
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1dg07lvh</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.10.1.19</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
