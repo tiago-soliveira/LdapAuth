@@ -23,3 +23,5 @@ try
 catch (Exception ex)
 {
 }
+
+Observação configurar o arquivo: Settings.settings conforme informado pelo Emerson.
